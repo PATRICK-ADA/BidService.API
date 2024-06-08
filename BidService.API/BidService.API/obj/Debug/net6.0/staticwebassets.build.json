@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JHhWQ3OML7n72lzKPvE9dqG3DkK56AP6azrnzgkXIeo=",
+  "Source": "BidService.API",
+  "BasePath": "_content/BidService.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

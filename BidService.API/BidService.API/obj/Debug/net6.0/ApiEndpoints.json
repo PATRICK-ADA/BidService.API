@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "BidService.API.BidService.Web.Controllers.BidsController",
+    "Method": "GetAllBidEntries",
+    "RelativePath": "api/Bids/All",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "pageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "pageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BidService.API.BidService.Web.Controllers.BidsController",
+    "Method": "GetBidEntriesById",
+    "RelativePath": "api/Bids/Id",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BidService.API.BidService.Web.Controllers.BidsController",
+    "Method": "GetBidEntriesByUserName",
+    "RelativePath": "api/Bids/UserName",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
