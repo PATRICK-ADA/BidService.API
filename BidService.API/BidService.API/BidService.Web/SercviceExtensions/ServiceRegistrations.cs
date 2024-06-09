@@ -14,15 +14,12 @@ namespace BidService.API.BidService.Web.SercviceExtensions
         public static void ConfigureKafka(this IServiceCollection services)
         {
 
-
             services.AddHostedService<KafkaConsumerService.KafkaConsumerService>();
-
-
 
         }
 
 
-        public static WebApplicationBuilder WebApplication(this WebApplicationBuilder services) 
+        public static WebApplicationBuilder Addserilog(this WebApplicationBuilder services) 
         {
             services.Host.UseSerilog((context, config) =>
             {

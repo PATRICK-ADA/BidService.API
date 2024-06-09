@@ -1,4 +1,5 @@
 using BidService.API.BidService.Web.SercviceExtensions;
+using Extensions.NewSeriLog;
 
 
 
@@ -9,7 +10,7 @@ public class Program
 
         var builder = WebApplication.CreateBuilder(args);
        
-        builder.WebApplication();
+        builder.Addserilog();
         builder.Services.ConfigureKafka();
 
         builder.Services.AppServices(builder.Configuration);
@@ -33,7 +34,7 @@ public class Program
 
         app.UseAuthorization();
         app.MapControllers();
-        app.UseSerilogMigrationSetUpInfo();
+        app.UseSerilogDbMigrationLogging();
 
         app.Run();
     }
