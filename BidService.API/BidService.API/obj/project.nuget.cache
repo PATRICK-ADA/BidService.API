@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X+0/LkGRYm5xQWJaiWR7x/j/ZMCV4kSLNZCZYUf2zX2o5WLFSlMP8Nqw/C/ZgNm5DrYfK3/DFQUYB2i0nT9wvg==",
+  "dgSpecHash": "9LD64AmKjGUIZEvWx7e5AZOBUE7EU1BH2o6PQUkjvf7Dc47rWA0tGMD+rY+nPlGeNQgG18a2umnME7cWXmbozA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\BidService.API.csproj",
+  "projectFilePath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\BidService.API\\BidService.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hp\\.nuget\\packages\\confluent.kafka\\2.4.0\\confluent.kafka.2.4.0.nupkg.sha512",
     "C:\\Users\\hp\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\BidService.API.csproj": {}
+    "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\BidService.API\\BidService.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\BidService.API.csproj": {
+    "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\BidService.API\\BidService.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\BidService.API.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\BidService.API\\BidService.API.csproj",
         "projectName": "BidService.API",
-        "projectPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\BidService.API.csproj",
+        "projectPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\BidService.API\\BidService.API.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\obj\\",
+        "outputPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\BidService.API\\BidService.API\\BidService.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

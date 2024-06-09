@@ -2,7 +2,10 @@
 using BidService.API.Repository;
 using BidService.API.Service;
 using BidService.Core.Abstraction;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using RoomService.Infrastructure.Data;
+using Serilog;
 
 namespace BidService.API.BidService.Web.SercviceExtensions
 {
@@ -18,8 +21,31 @@ namespace BidService.API.BidService.Web.SercviceExtensions
 
         }
 
-        public static IServiceCollection AppServices(this IServiceCollection services)
+
+        public static WebApplicationBuilder WebApplication(this WebApplicationBuilder services) 
         {
+            services.Host.UseSerilog((context, config) =>
+            {
+                config.Enrich.FromLogContext()
+                    .WriteTo.Console()
+                    .ReadFrom.Configuration(context.Configuration);
+
+            });
+
+            return services;
+        }
+
+        public static IServiceCollection AppServices(this IServiceCollection services, IConfiguration configuration)
+        {
+
+
+            
+
+            services.AddDbContext<AppDbContext>(options =>
+              options.UseNpgsql(
+                 configuration.GetConnectionString("DefaultConnection"),
+
+                  b => b.MigrationsAssembly(typeof(AppDbContext).Assembly.FullName)), ServiceLifetime.Transient);
 
 
 

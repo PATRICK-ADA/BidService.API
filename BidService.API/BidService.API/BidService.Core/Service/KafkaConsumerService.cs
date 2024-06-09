@@ -1,11 +1,8 @@
-﻿using BidService.API.Abstraction;
-using BidService.API.BidService.Domain.Entities;
-using BidService.API.Service;
+﻿using BidService.API.BidService.Domain.Entities;
 using Confluent.Kafka;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using RoomService.Infrastructure.Data;
-using static Confluent.Kafka.ConfigPropertyNames;
 using ILogger = Serilog.ILogger;
 
 namespace BidService.API.KafkaConsumerService
