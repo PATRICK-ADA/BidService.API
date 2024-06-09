@@ -9,10 +9,8 @@ namespace BidService.API.Service
 {
     public class BidServices : IBidService
     {
+
         private readonly IBidRepository _bidRepository;
-
-
-
         public BidServices(IBidRepository bidRepository)
         {
 
