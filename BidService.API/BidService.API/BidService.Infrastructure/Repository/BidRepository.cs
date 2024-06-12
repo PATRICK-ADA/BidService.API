@@ -39,9 +39,9 @@ namespace BidService.API.Repository
         {
             if (UserName is null)
             {
-                return new FailureApiResponse("", $"No Bid details with the bidId {UserName} found");
+                return new FailureApiResponse("", $"No Bid details with the bid {UserName} found");
             }
-            var result =  await _Context.RoomBidders.FirstOrDefaultAsync(b => b.UserName == UserName);
+            var result =  await _Context.RoomBidders.Select(b => b).Where(u => u.UserName == UserName).ToListAsync();
 
 
             return new SuccessApiResponse<BidDto>("Retrieved Bid Successfully", result);
