@@ -1,6 +1,5 @@
 ﻿using BidService.API.BidService.Core.ApiResponse;
 using BidService.API.BidService.Core.Utility.Common;
-using BidService.API.BidService.Domain.Entities;
 using BidService.API.BidService.Domain.RequestDto;
 using BidService.Core.Abstraction;
 using Microsoft.EntityFrameworkCore;
