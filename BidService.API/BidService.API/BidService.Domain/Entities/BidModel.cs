@@ -1,10 +1,4 @@
-﻿using BidService.API.BidService.Domain.RequestDto;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
+﻿
 namespace BidService.API.BidService.Domain.Entities
 {
     public class BidModel

@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69E18ADC-2595-4129-92EA-8AEBF483FF2B}|BidService.API\\BidService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\bid.api\\bidservice.api\\bidservice.api\\bidservice.web\\controllers\\bidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69E18ADC-2595-4129-92EA-8AEBF483FF2B}|BidService.API\\BidService.API.csproj|solutionrelative:bidservice.api\\bidservice.web\\controllers\\bidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69E18ADC-2595-4129-92EA-8AEBF483FF2B}|BidService.API\\BidService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\bid.api\\bidservice.api\\bidservice.api\\bidservice.infrastructure\\repository\\bidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69E18ADC-2595-4129-92EA-8AEBF483FF2B}|BidService.API\\BidService.API.csproj|solutionrelative:bidservice.api\\bidservice.infrastructure\\repository\\bidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,14 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{69E18ADC-2595-4129-92EA-8AEBF483FF2B}|BidService.API\\BidService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\bid.api\\bidservice.api\\bidservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{69E18ADC-2595-4129-92EA-8AEBF483FF2B}|BidService.API\\BidService.API.csproj|solutionrelative:bidservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69E18ADC-2595-4129-92EA-8AEBF483FF2B}|BidService.API\\BidService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\bid.api\\bidservice.api\\bidservice.api\\bidservice.web\\controllers\\bidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69E18ADC-2595-4129-92EA-8AEBF483FF2B}|BidService.API\\BidService.API.csproj|solutionrelative:bidservice.api\\bidservice.web\\controllers\\bidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69E18ADC-2595-4129-92EA-8AEBF483FF2B}|BidService.API\\BidService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\bid.api\\bidservice.api\\bidservice.api\\bidservice.web\\sercviceextensions\\serilogdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69E18ADC-2595-4129-92EA-8AEBF483FF2B}|BidService.API\\BidService.API.csproj|solutionrelative:bidservice.api\\bidservice.web\\sercviceextensions\\serilogdefinition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69E18ADC-2595-4129-92EA-8AEBF483FF2B}|BidService.API\\BidService.API.csproj|c:\\users\\hp\\downloads\\onedrive\\desktop\\chatapplication\\bid.api\\bidservice.api\\bidservice.api\\bidservice.web\\sercviceextensions\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,7 +69,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 15,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
@@ -97,6 +96,19 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T13:36:19.63Z",
               "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AQIAAIwVAAAAAAAAAAAewJsVAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-06-12T10:15:20.662Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -148,32 +160,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "BidRepository.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\BidService.API\\BidService.Infrastructure\\Repository\\BidRepository.cs",
               "RelativeDocumentMoniker": "BidService.API\\BidService.Infrastructure\\Repository\\BidRepository.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\BidService.API\\BidService.Infrastructure\\Repository\\BidRepository.cs*",
-              "RelativeToolTip": "BidService.API\\BidService.Infrastructure\\Repository\\BidRepository.cs*",
-              "ViewState": "AQIAABoAAAAAAAAAAAAAADAAAAAAAAAA",
+              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\BidService.API\\BidService.Infrastructure\\Repository\\BidRepository.cs",
+              "RelativeToolTip": "BidService.API\\BidService.Infrastructure\\Repository\\BidRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T21:09:25.835Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "BidsController.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\BidService.API\\BidService.Web\\Controllers\\BidsController.cs",
               "RelativeDocumentMoniker": "BidService.API\\BidService.Web\\Controllers\\BidsController.cs",
               "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\BidService.API\\BidService.Web\\Controllers\\BidsController.cs",
               "RelativeToolTip": "BidService.API\\BidService.Web\\Controllers\\BidsController.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:26:01.628Z"
+              "WhenOpened": "2024-06-06T13:26:01.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\BidService.API\\appsettings.json",
               "RelativeDocumentMoniker": "BidService.API\\appsettings.json",
@@ -185,25 +198,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SeriLogDefinition.cs",
-              "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\BidService.API\\BidService.Web\\SercviceExtensions\\SeriLogDefinition.cs",
-              "RelativeDocumentMoniker": "BidService.API\\BidService.Web\\SercviceExtensions\\SeriLogDefinition.cs",
-              "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\BidService.API\\BidService.Web\\SercviceExtensions\\SeriLogDefinition.cs",
-              "RelativeToolTip": "BidService.API\\BidService.Web\\SercviceExtensions\\SeriLogDefinition.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T12:31:20.082Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "BidServices.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\BidService.API\\BidService.Core\\Service\\BidServices.cs",
               "RelativeDocumentMoniker": "BidService.API\\BidService.Core\\Service\\BidServices.cs",
               "ToolTip": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\BidService.API\\BidService.Core\\Service\\BidServices.cs",
               "RelativeToolTip": "BidService.API\\BidService.Core\\Service\\BidServices.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAIAAAA0AAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAIAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-06T12:31:05.74Z",
               "EditorCaption": ""
@@ -246,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "KafkaConsumerService.cs",
               "DocumentMoniker": "C:\\Users\\hp\\Downloads\\OneDrive\\Desktop\\ChatApplication\\Bid.API\\BidService.API\\BidService.API\\BidService.Core\\Service\\KafkaConsumerService.cs",
               "RelativeDocumentMoniker": "BidService.API\\BidService.Core\\Service\\KafkaConsumerService.cs",

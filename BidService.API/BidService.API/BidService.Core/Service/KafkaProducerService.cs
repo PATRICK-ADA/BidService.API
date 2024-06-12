@@ -1,4 +1,4 @@
-﻿using BidService.API.Abstraction;
+﻿
 
 namespace BidService.API.KafkaProducerService
 {
